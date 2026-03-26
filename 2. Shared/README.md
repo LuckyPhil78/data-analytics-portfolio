@@ -1,13 +1,13 @@
 # Shared Assets
 
 This folder contains reusable components such as:
-
-- Shared datasets
-- Python utility functions
-- SQL snippets and templates
-- Visualisation themes (Power BI, Matplotlib, Seaborn)
-- Icons and images
-
+```mermaid
+1. Shared datasets
+2. Python utility functions
+3. SQL snippets and templates
+4. Visualisation themes (Power BI, Matplotlib, Seaborn)
+5. Icons and images
+```
 These assets can be referenced across multiple analytics projects.
 
 ## 🔄 Updates & Revisions
