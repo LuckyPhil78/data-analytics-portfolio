@@ -3,7 +3,7 @@
 This folder will contain individual data analytics projects. Each project will
 be self-contained and follow a consistent structure:
 
-```mermaid
+```
 Project Name
     1. Data
         Raw         # Original datasets (if they arnt to big to share)
